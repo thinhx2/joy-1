@@ -195,6 +195,7 @@ dtb-$(CONFIG_ARCH_MSM8937) += msm8937-rumi.dtb \
 
 ifeq ($(CONFIG_JEICE_COMMON),y)
 dtb-$(CONFIG_ARCH_MSM8937) +=  jeice.dtb
+dtb-$(CONFIG_ARCH_MSM8937) +=  jeice8940qc.dtb
 dtb-$(CONFIG_ARCH_MSM8937) +=  jeice8940.dtb
 else
 dtb-$(CONFIG_ARCH_MSM8917) += msm8917-rumi.dtb \
