@@ -34,7 +34,7 @@
 *****************************************************************************/
 #include "focaltech_core.h"
 #include "focaltech_flash.h"
-#include <../lct_tp_fm_info.h>
+#include "../lct_tp_fm_info.h"
 
 /*****************************************************************************
 * Static variables
